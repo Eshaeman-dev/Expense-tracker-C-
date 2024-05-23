@@ -79,6 +79,7 @@
     <Compile Include="Income.Designer.cs">
       <DependentUpon>Income.cs</DependentUpon>
     </Compile>
+    <Compile Include="IncomeData.cs" />
     <Compile Include="MainForm.cs">
       <SubType>Form</SubType>
     </Compile>

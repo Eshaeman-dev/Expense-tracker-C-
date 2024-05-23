@@ -50,8 +50,6 @@
             this.button2 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
-            this.add_Category2 = new IncomeandExpenseTracker.Add_Category();
-            this.add_Category1 = new IncomeandExpenseTracker.Add_Category();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel1.SuspendLayout();
@@ -198,7 +196,7 @@
             this.Logout_btn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.Logout_btn.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Logout_btn.ForeColor = System.Drawing.Color.White;
-            this.Logout_btn.Location = new System.Drawing.Point(3, 448);
+            this.Logout_btn.Location = new System.Drawing.Point(9, 449);
             this.Logout_btn.Name = "Logout_btn";
             this.Logout_btn.Size = new System.Drawing.Size(189, 33);
             this.Logout_btn.TabIndex = 6;
@@ -322,27 +320,11 @@
             this.pictureBox3.TabIndex = 0;
             this.pictureBox3.TabStop = false;
             // 
-            // add_Category2
-            // 
-            this.add_Category2.Location = new System.Drawing.Point(221, 40);
-            this.add_Category2.Name = "add_Category2";
-            this.add_Category2.Size = new System.Drawing.Size(8, 30);
-            this.add_Category2.TabIndex = 20;
-            // 
-            // add_Category1
-            // 
-            this.add_Category1.Location = new System.Drawing.Point(220, 40);
-            this.add_Category1.Name = "add_Category1";
-            this.add_Category1.Size = new System.Drawing.Size(916, 596);
-            this.add_Category1.TabIndex = 19;
-            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1119, 541);
-            this.Controls.Add(this.add_Category2);
-            this.Controls.Add(this.add_Category1);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.pictureBox2);
             this.Controls.Add(this.button1);
@@ -393,7 +375,5 @@
         private System.Windows.Forms.PictureBox pictureBox6;
         private System.Windows.Forms.PictureBox pictureBox8;
         private System.Windows.Forms.PictureBox pictureBox9;
-        private Add_Category add_Category1;
-        private Add_Category add_Category2;
     }
 }

@@ -37,7 +37,7 @@ namespace IncomeandExpenseTracker
                         cData.Category = reader["category"].ToString();
                         cData.Type = reader["type"].ToString();
                         cData.Status= reader["status"].ToString();
-                        cData.Date =reader["date_insert"].ToString();
+                        cData.Date =((DateTime)reader["date_insert"]).ToString("MM-dd-yyyy");
                       
                         listdata.Add(cData);
                     }

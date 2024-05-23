@@ -68,5 +68,15 @@ namespace IncomeandExpenseTracker
         {
 
         }
+
+        private void add_Category1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void income1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

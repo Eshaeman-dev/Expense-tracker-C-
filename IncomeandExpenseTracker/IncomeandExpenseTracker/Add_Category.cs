@@ -25,6 +25,7 @@ namespace IncomeandExpenseTracker
             List<CategoryData> listdata = cData.categoryListData();
 
             dataGridView1.DataSource = listdata;
+          
         }
 
         private void close_Click(object sender, EventArgs e)
@@ -145,6 +146,15 @@ namespace IncomeandExpenseTracker
             clearFields();
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void category_deletebtn_Click(object sender, EventArgs e)
+        {
+
+        }
     }
         }
     
