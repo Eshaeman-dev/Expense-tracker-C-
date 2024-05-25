@@ -19,6 +19,16 @@ namespace IncomeandExpenseTracker
 
             displayCategoryList();
         }
+        public void refreshData()
+        {
+            if (InvokeRequired)
+            {
+                Invoke(new MethodInvoker(refreshData));
+                return;
+            }
+            displayCategoryList();
+
+        }
         public void displayCategoryList()
         {
             CategoryData cData = new CategoryData();

@@ -29,7 +29,7 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Add_Category));
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             this.close = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
@@ -49,7 +49,6 @@
             this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.label4 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
-            this.button1 = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
@@ -89,7 +88,7 @@
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(13, 13);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(239, 478);
+            this.panel1.Size = new System.Drawing.Size(239, 545);
             this.panel1.TabIndex = 17;
             // 
             // pictureBox3
@@ -128,7 +127,7 @@
             this.category_deletebtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.category_deletebtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.category_deletebtn.ForeColor = System.Drawing.Color.White;
-            this.category_deletebtn.Location = new System.Drawing.Point(135, 340);
+            this.category_deletebtn.Location = new System.Drawing.Point(135, 370);
             this.category_deletebtn.Name = "category_deletebtn";
             this.category_deletebtn.Size = new System.Drawing.Size(87, 50);
             this.category_deletebtn.TabIndex = 9;
@@ -141,7 +140,7 @@
             this.category_clearbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.category_clearbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.category_clearbtn.ForeColor = System.Drawing.Color.White;
-            this.category_clearbtn.Location = new System.Drawing.Point(23, 340);
+            this.category_clearbtn.Location = new System.Drawing.Point(23, 370);
             this.category_clearbtn.Name = "category_clearbtn";
             this.category_clearbtn.Size = new System.Drawing.Size(87, 50);
             this.category_clearbtn.TabIndex = 8;
@@ -246,13 +245,12 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.White;
-            this.panel2.Controls.Add(this.button1);
             this.panel2.Controls.Add(this.pictureBox4);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Controls.Add(this.dataGridView1);
             this.panel2.Location = new System.Drawing.Point(269, 12);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(635, 478);
+            this.panel2.Size = new System.Drawing.Size(676, 546);
             this.panel2.TabIndex = 18;
             // 
             // pictureBox4
@@ -281,33 +279,22 @@
             this.dataGridView1.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dataGridView1.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.Gray;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle1.BackColor = System.Drawing.Color.Gray;
+            dataGridViewCellStyle1.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle1.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle1.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle1.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle1.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle1;
             this.dataGridView1.EnableHeadersVisualStyles = false;
             this.dataGridView1.Location = new System.Drawing.Point(15, 58);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersVisible = false;
-            this.dataGridView1.Size = new System.Drawing.Size(605, 402);
+            this.dataGridView1.Size = new System.Drawing.Size(646, 454);
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.UseWaitCursor = true;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
-            // 
-            // button1
-            // 
-            this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.button1.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(599, 17);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(21, 22);
-            this.button1.TabIndex = 23;
-            this.button1.Text = "X";
-            this.button1.UseVisualStyleBackColor = true;
             // 
             // Add_Category
             // 
@@ -317,7 +304,7 @@
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.close);
             this.Name = "Add_Category";
-            this.Size = new System.Drawing.Size(916, 503);
+            this.Size = new System.Drawing.Size(958, 573);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
@@ -352,6 +339,5 @@
         private System.Windows.Forms.PictureBox pictureBox3;
         private System.Windows.Forms.PictureBox pictureBox2;
         private System.Windows.Forms.PictureBox pictureBox4;
-        private System.Windows.Forms.Button button1;
     }
 }

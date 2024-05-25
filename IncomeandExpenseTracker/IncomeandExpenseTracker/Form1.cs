@@ -43,6 +43,7 @@ namespace IncomeandExpenseTracker
             this.Hide();
         }
 
+        public static string username;
         private void login_btn_Click(object sender, EventArgs e)
         {
             if (login_username.Text == "" || login_password.Text == "")
@@ -68,6 +69,7 @@ namespace IncomeandExpenseTracker
 
                         if (table.Rows.Count > 0)
                         {
+                            username = login_username.Text;
                             MessageBox.Show("Login Successfully", "Information Message", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
                             MainForm mform= new MainForm();

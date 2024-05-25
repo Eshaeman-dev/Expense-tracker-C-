@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.close = new System.Windows.Forms.Button();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.label11 = new System.Windows.Forms.Label();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
             this.label1 = new System.Windows.Forms.Label();
             this.panel2 = new System.Windows.Forms.Panel();
@@ -56,35 +59,57 @@
             this.panel2.SuspendLayout();
             this.SuspendLayout();
             // 
-            // close
-            // 
-            this.close.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.close.Font = new System.Drawing.Font("Arial Rounded MT Bold", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.close.Location = new System.Drawing.Point(877, 2);
-            this.close.Name = "close";
-            this.close.Size = new System.Drawing.Size(21, 22);
-            this.close.TabIndex = 16;
-            this.close.Text = "X";
-            this.close.UseVisualStyleBackColor = true;
-            this.close.Click += new System.EventHandler(this.close_Click);
-            // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.White;
+            this.panel1.Controls.Add(this.label11);
             this.panel1.Controls.Add(this.dataGridView1);
             this.panel1.Location = new System.Drawing.Point(12, 30);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(886, 218);
+            this.panel1.Size = new System.Drawing.Size(935, 251);
             this.panel1.TabIndex = 17;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
+            // 
+            // label11
+            // 
+            this.label11.AutoSize = true;
+            this.label11.Font = new System.Drawing.Font("Tahoma", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label11.Location = new System.Drawing.Point(15, 12);
+            this.label11.Name = "label11";
+            this.label11.Size = new System.Drawing.Size(115, 25);
+            this.label11.TabIndex = 21;
+            this.label11.Text = "Income list";
             // 
             // dataGridView1
             // 
+            dataGridViewCellStyle4.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle4.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle4.ForeColor = System.Drawing.Color.Gray;
+            this.dataGridView1.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle5.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle5.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle5.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle5.ForeColor = System.Drawing.Color.Gray;
+            dataGridViewCellStyle5.SelectionBackColor = System.Drawing.Color.Black;
+            dataGridViewCellStyle5.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle5.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.dataGridView1.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle5;
             this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Location = new System.Drawing.Point(11, 50);
+            dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle6.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle6.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle6.ForeColor = System.Drawing.Color.Gray;
+            dataGridViewCellStyle6.SelectionBackColor = System.Drawing.Color.Gray;
+            dataGridViewCellStyle6.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.dataGridView1.DefaultCellStyle = dataGridViewCellStyle6;
+            this.dataGridView1.Location = new System.Drawing.Point(11, 42);
             this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(865, 161);
+            this.dataGridView1.Size = new System.Drawing.Size(902, 194);
+            this.dataGridView1.StandardTab = true;
             this.dataGridView1.TabIndex = 0;
             this.dataGridView1.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellClick);
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // label1
             // 
@@ -95,6 +120,7 @@
             this.label1.Size = new System.Drawing.Size(115, 25);
             this.label1.TabIndex = 1;
             this.label1.Text = "Income list";
+            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // panel2
             // 
@@ -113,9 +139,9 @@
             this.panel2.Controls.Add(this.income_income);
             this.panel2.Controls.Add(this.income_item);
             this.panel2.Controls.Add(this.income_category);
-            this.panel2.Location = new System.Drawing.Point(12, 254);
+            this.panel2.Location = new System.Drawing.Point(12, 287);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(886, 218);
+            this.panel2.Size = new System.Drawing.Size(935, 265);
             this.panel2.TabIndex = 18;
             this.panel2.Paint += new System.Windows.Forms.PaintEventHandler(this.panel2_Paint);
             // 
@@ -128,6 +154,7 @@
             this.label10.Size = new System.Drawing.Size(68, 19);
             this.label10.TabIndex = 19;
             this.label10.Text = "Income:";
+            this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
             // label9
             // 
@@ -149,6 +176,7 @@
             this.label8.Size = new System.Drawing.Size(78, 19);
             this.label8.TabIndex = 17;
             this.label8.Text = "Category:";
+            this.label8.Click += new System.EventHandler(this.label8_Click);
             // 
             // income_deletebtn
             // 
@@ -156,12 +184,13 @@
             this.income_deletebtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.income_deletebtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_deletebtn.ForeColor = System.Drawing.Color.White;
-            this.income_deletebtn.Location = new System.Drawing.Point(566, 152);
+            this.income_deletebtn.Location = new System.Drawing.Point(478, 181);
             this.income_deletebtn.Name = "income_deletebtn";
             this.income_deletebtn.Size = new System.Drawing.Size(87, 50);
             this.income_deletebtn.TabIndex = 16;
             this.income_deletebtn.Text = "Delete";
             this.income_deletebtn.UseVisualStyleBackColor = false;
+            this.income_deletebtn.Click += new System.EventHandler(this.income_deletebtn_Click);
             // 
             // income_clearbtn
             // 
@@ -169,7 +198,7 @@
             this.income_clearbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.income_clearbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_clearbtn.ForeColor = System.Drawing.Color.White;
-            this.income_clearbtn.Location = new System.Drawing.Point(450, 152);
+            this.income_clearbtn.Location = new System.Drawing.Point(590, 181);
             this.income_clearbtn.Name = "income_clearbtn";
             this.income_clearbtn.Size = new System.Drawing.Size(87, 50);
             this.income_clearbtn.TabIndex = 15;
@@ -183,7 +212,7 @@
             this.income_updatebtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.income_updatebtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_updatebtn.ForeColor = System.Drawing.Color.White;
-            this.income_updatebtn.Location = new System.Drawing.Point(333, 152);
+            this.income_updatebtn.Location = new System.Drawing.Point(357, 181);
             this.income_updatebtn.Name = "income_updatebtn";
             this.income_updatebtn.Size = new System.Drawing.Size(87, 50);
             this.income_updatebtn.TabIndex = 14;
@@ -197,7 +226,7 @@
             this.income_addbtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.income_addbtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_addbtn.ForeColor = System.Drawing.Color.White;
-            this.income_addbtn.Location = new System.Drawing.Point(212, 152);
+            this.income_addbtn.Location = new System.Drawing.Point(240, 181);
             this.income_addbtn.Name = "income_addbtn";
             this.income_addbtn.Size = new System.Drawing.Size(87, 50);
             this.income_addbtn.TabIndex = 13;
@@ -212,6 +241,7 @@
             this.income_date.Name = "income_date";
             this.income_date.Size = new System.Drawing.Size(269, 26);
             this.income_date.TabIndex = 12;
+            this.income_date.ValueChanged += new System.EventHandler(this.income_date_ValueChanged);
             // 
             // label7
             // 
@@ -222,6 +252,7 @@
             this.label7.Size = new System.Drawing.Size(47, 19);
             this.label7.TabIndex = 11;
             this.label7.Text = "Date:";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
             // 
             // income_description
             // 
@@ -231,6 +262,7 @@
             this.income_description.Name = "income_description";
             this.income_description.Size = new System.Drawing.Size(271, 72);
             this.income_description.TabIndex = 9;
+            this.income_description.TextChanged += new System.EventHandler(this.income_description_TextChanged);
             // 
             // label6
             // 
@@ -250,6 +282,7 @@
             this.income_income.Name = "income_income";
             this.income_income.Size = new System.Drawing.Size(198, 26);
             this.income_income.TabIndex = 7;
+            this.income_income.TextChanged += new System.EventHandler(this.income_income_TextChanged);
             // 
             // income_item
             // 
@@ -258,15 +291,18 @@
             this.income_item.Name = "income_item";
             this.income_item.Size = new System.Drawing.Size(198, 26);
             this.income_item.TabIndex = 5;
+            this.income_item.TextChanged += new System.EventHandler(this.income_item_TextChanged);
             // 
             // income_category
             // 
             this.income_category.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_category.FormattingEnabled = true;
             this.income_category.Items.AddRange(new object[] {
-            "Allownce",
-            "Scholarship"});
-            this.income_category.Location = new System.Drawing.Point(194, 20);
+            "Allownces",
+            "Scholarship",
+            "Investment",
+            "Royalities"});
+            this.income_category.Location = new System.Drawing.Point(190, 18);
             this.income_category.Name = "income_category";
             this.income_category.Size = new System.Drawing.Size(198, 28);
             this.income_category.TabIndex = 2;
@@ -281,6 +317,7 @@
             this.label5.Size = new System.Drawing.Size(68, 19);
             this.label5.TabIndex = 6;
             this.label5.Text = "Income:";
+            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label4
             // 
@@ -291,6 +328,7 @@
             this.label4.Size = new System.Drawing.Size(48, 19);
             this.label4.TabIndex = 4;
             this.label4.Text = "Item:";
+            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label3
             // 
@@ -300,6 +338,7 @@
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(0, 19);
             this.label3.TabIndex = 3;
+            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
@@ -310,18 +349,19 @@
             this.label2.Size = new System.Drawing.Size(78, 19);
             this.label2.TabIndex = 1;
             this.label2.Text = "Category:";
+            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // Income
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(894, 477);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel1);
-            this.Controls.Add(this.close);
             this.Name = "Income";
+            this.Size = new System.Drawing.Size(963, 555);
             this.Load += new System.EventHandler(this.Income_Load);
             this.panel1.ResumeLayout(false);
+            this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.panel2.ResumeLayout(false);
             this.panel2.PerformLayout();
@@ -330,8 +370,6 @@
         }
 
         #endregion
-
-        private System.Windows.Forms.Button close;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Panel panel2;
@@ -354,5 +392,6 @@
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.Label label10;
+        private System.Windows.Forms.Label label11;
     }
 }

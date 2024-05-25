@@ -35,10 +35,7 @@ C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracke
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\bin\Debug\IncomeandExpenseTracker.pdb
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.csproj.AssemblyReference.cache
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Add_Category.resources
-C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Dashboard.resources
-C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Expense.resources
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Form1.resources
-C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Income.resources
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.MainForm.resources
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Properties.Resources.resources
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.RegisterForm.resources
@@ -46,3 +43,6 @@ C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracke
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.csproj.CoreCompileInputs.cache
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.exe
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.pdb
+C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.DashBoard.resources
+C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Expense.resources
+C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Income.resources

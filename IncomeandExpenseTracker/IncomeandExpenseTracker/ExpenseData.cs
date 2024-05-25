@@ -4,7 +4,7 @@ using System.Data.SqlClient;
 
 namespace IncomeandExpenseTracker
 {
-    internal class IncomeData
+    internal class ExpenseData
     {
         string stringConnection = @"Data Source=DESKTOP-OIUHF71\SQLEXPRESS;Initial Catalog=ExpenseTracker;Integrated Security=True";
 
@@ -13,16 +13,16 @@ namespace IncomeandExpenseTracker
         public string Item { get; set; }
         public string Cost { get; set; }
         public string Description { get; set; }
-        public string DateIncome { get; set; }
+        public string DateExpense { get; set; }
 
-        public List<IncomeData> incomeListData()
+        public List<ExpenseData> expenseListData()
         {
-            List<IncomeData> listData = new List<IncomeData>();
+            List<ExpenseData> listData = new List<ExpenseData>();
 
             using (SqlConnection connect = new SqlConnection(stringConnection))
             {
                 connect.Open();
-                string selectData = "SELECT * FROM income";
+                string selectData = "SELECT * FROM expenses";
 
                 using (SqlCommand command = new SqlCommand(selectData, connect))
                 {
@@ -30,17 +30,17 @@ namespace IncomeandExpenseTracker
 
                     while (reader.Read())
                     {
-                        IncomeData iData = new IncomeData
+                        ExpenseData eData = new ExpenseData
                         {
                             Id = (int)reader["id"],
                             Category = reader["category"].ToString(),
                             Item = reader["item"].ToString(),
-                            Cost = reader["income"].ToString(),
+                            Cost = reader["cost"].ToString(),
                             Description = reader["description"].ToString(),
-                            DateIncome = ((DateTime)reader["date_income"]).ToString("MM-dd-yyyy")
+                            DateExpense = ((DateTime)reader["date_expense"]).ToString("MM-dd-yyyy")
                         };
 
-                        listData.Add(iData);
+                        listData.Add(eData);
                     }
                 }
             }
