@@ -134,7 +134,7 @@
             this.panel7.Controls.Add(this.pictureBox8);
             this.panel7.Location = new System.Drawing.Point(704, 69);
             this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(209, 110);
+            this.panel7.Size = new System.Drawing.Size(213, 110);
             this.panel7.TabIndex = 18;
             // 
             // label21
@@ -143,7 +143,7 @@
             this.label21.BackColor = System.Drawing.Color.Gray;
             this.label21.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label21.ForeColor = System.Drawing.Color.White;
-            this.label21.Location = new System.Drawing.Point(31, 68);
+            this.label21.Location = new System.Drawing.Point(67, 68);
             this.label21.Name = "label21";
             this.label21.Size = new System.Drawing.Size(143, 18);
             this.label21.TabIndex = 26;
@@ -155,7 +155,7 @@
             this.expense_thisYear.BackColor = System.Drawing.Color.Gray;
             this.expense_thisYear.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.expense_thisYear.ForeColor = System.Drawing.Color.White;
-            this.expense_thisYear.Location = new System.Drawing.Point(69, 11);
+            this.expense_thisYear.Location = new System.Drawing.Point(64, 11);
             this.expense_thisYear.Name = "expense_thisYear";
             this.expense_thisYear.Size = new System.Drawing.Size(22, 23);
             this.expense_thisYear.TabIndex = 21;
@@ -178,7 +178,7 @@
             this.panel8.Controls.Add(this.pictureBox7);
             this.panel8.Location = new System.Drawing.Point(476, 69);
             this.panel8.Name = "panel8";
-            this.panel8.Size = new System.Drawing.Size(208, 110);
+            this.panel8.Size = new System.Drawing.Size(221, 110);
             this.panel8.TabIndex = 18;
             // 
             // label20
@@ -187,7 +187,7 @@
             this.label20.BackColor = System.Drawing.Color.Gray;
             this.label20.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label20.ForeColor = System.Drawing.Color.White;
-            this.label20.Location = new System.Drawing.Point(23, 69);
+            this.label20.Location = new System.Drawing.Point(63, 69);
             this.label20.Name = "label20";
             this.label20.Size = new System.Drawing.Size(155, 18);
             this.label20.TabIndex = 26;
@@ -199,7 +199,7 @@
             this.expense_thisMonth.BackColor = System.Drawing.Color.Gray;
             this.expense_thisMonth.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.expense_thisMonth.ForeColor = System.Drawing.Color.White;
-            this.expense_thisMonth.Location = new System.Drawing.Point(73, 13);
+            this.expense_thisMonth.Location = new System.Drawing.Point(69, 13);
             this.expense_thisMonth.Name = "expense_thisMonth";
             this.expense_thisMonth.Size = new System.Drawing.Size(22, 23);
             this.expense_thisMonth.TabIndex = 21;
@@ -222,7 +222,7 @@
             this.panel9.Controls.Add(this.pictureBox6);
             this.panel9.Location = new System.Drawing.Point(257, 69);
             this.panel9.Name = "panel9";
-            this.panel9.Size = new System.Drawing.Size(199, 110);
+            this.panel9.Size = new System.Drawing.Size(210, 110);
             this.panel9.TabIndex = 18;
             // 
             // label19
@@ -231,7 +231,7 @@
             this.label19.BackColor = System.Drawing.Color.Gray;
             this.label19.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label19.ForeColor = System.Drawing.Color.White;
-            this.label19.Location = new System.Drawing.Point(12, 69);
+            this.label19.Location = new System.Drawing.Point(45, 69);
             this.label19.Name = "label19";
             this.label19.Size = new System.Drawing.Size(163, 18);
             this.label19.TabIndex = 25;
@@ -244,7 +244,7 @@
             this.expense_yesterday.BackColor = System.Drawing.Color.Gray;
             this.expense_yesterday.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.expense_yesterday.ForeColor = System.Drawing.Color.White;
-            this.expense_yesterday.Location = new System.Drawing.Point(73, 13);
+            this.expense_yesterday.Location = new System.Drawing.Point(68, 13);
             this.expense_yesterday.Name = "expense_yesterday";
             this.expense_yesterday.Size = new System.Drawing.Size(22, 23);
             this.expense_yesterday.TabIndex = 21;
@@ -265,9 +265,9 @@
             this.panel10.Controls.Add(this.label18);
             this.panel10.Controls.Add(this.expense_today);
             this.panel10.Controls.Add(this.pictureBox5);
-            this.panel10.Location = new System.Drawing.Point(34, 69);
+            this.panel10.Location = new System.Drawing.Point(27, 69);
             this.panel10.Name = "panel10";
-            this.panel10.Size = new System.Drawing.Size(205, 110);
+            this.panel10.Size = new System.Drawing.Size(223, 110);
             this.panel10.TabIndex = 0;
             // 
             // label18
@@ -276,7 +276,7 @@
             this.label18.BackColor = System.Drawing.Color.Gray;
             this.label18.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label18.ForeColor = System.Drawing.Color.White;
-            this.label18.Location = new System.Drawing.Point(64, 69);
+            this.label18.Location = new System.Drawing.Point(96, 69);
             this.label18.Name = "label18";
             this.label18.Size = new System.Drawing.Size(123, 18);
             this.label18.TabIndex = 22;
@@ -288,7 +288,7 @@
             this.expense_today.BackColor = System.Drawing.Color.Gray;
             this.expense_today.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.expense_today.ForeColor = System.Drawing.Color.White;
-            this.expense_today.Location = new System.Drawing.Point(71, 13);
+            this.expense_today.Location = new System.Drawing.Point(68, 13);
             this.expense_today.Name = "expense_today";
             this.expense_today.Size = new System.Drawing.Size(22, 23);
             this.expense_today.TabIndex = 21;
@@ -335,7 +335,7 @@
             this.panel2.Controls.Add(this.pictureBox4);
             this.panel2.Location = new System.Drawing.Point(706, 69);
             this.panel2.Name = "panel2";
-            this.panel2.Size = new System.Drawing.Size(210, 110);
+            this.panel2.Size = new System.Drawing.Size(214, 110);
             this.panel2.TabIndex = 18;
             // 
             // label17
@@ -344,7 +344,7 @@
             this.label17.BackColor = System.Drawing.Color.Gray;
             this.label17.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label17.ForeColor = System.Drawing.Color.White;
-            this.label17.Location = new System.Drawing.Point(41, 72);
+            this.label17.Location = new System.Drawing.Point(79, 72);
             this.label17.Name = "label17";
             this.label17.Size = new System.Drawing.Size(134, 18);
             this.label17.TabIndex = 25;
@@ -356,7 +356,7 @@
             this.income_thisYearincome.BackColor = System.Drawing.Color.Gray;
             this.income_thisYearincome.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_thisYearincome.ForeColor = System.Drawing.Color.White;
-            this.income_thisYearincome.Location = new System.Drawing.Point(74, 14);
+            this.income_thisYearincome.Location = new System.Drawing.Point(69, 14);
             this.income_thisYearincome.Name = "income_thisYearincome";
             this.income_thisYearincome.Size = new System.Drawing.Size(22, 23);
             this.income_thisYearincome.TabIndex = 22;
@@ -379,7 +379,7 @@
             this.panel3.Controls.Add(this.pictureBox3);
             this.panel3.Location = new System.Drawing.Point(478, 69);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(208, 110);
+            this.panel3.Size = new System.Drawing.Size(222, 110);
             this.panel3.TabIndex = 18;
             // 
             // label16
@@ -388,7 +388,7 @@
             this.label16.BackColor = System.Drawing.Color.Gray;
             this.label16.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label16.ForeColor = System.Drawing.Color.White;
-            this.label16.Location = new System.Drawing.Point(35, 74);
+            this.label16.Location = new System.Drawing.Point(72, 74);
             this.label16.Name = "label16";
             this.label16.Size = new System.Drawing.Size(146, 18);
             this.label16.TabIndex = 25;
@@ -400,7 +400,7 @@
             this.income_thisMonthincome.BackColor = System.Drawing.Color.Gray;
             this.income_thisMonthincome.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_thisMonthincome.ForeColor = System.Drawing.Color.White;
-            this.income_thisMonthincome.Location = new System.Drawing.Point(78, 14);
+            this.income_thisMonthincome.Location = new System.Drawing.Point(71, 14);
             this.income_thisMonthincome.Name = "income_thisMonthincome";
             this.income_thisMonthincome.Size = new System.Drawing.Size(22, 23);
             this.income_thisMonthincome.TabIndex = 22;
@@ -424,7 +424,7 @@
             this.panel4.Controls.Add(this.pictureBox2);
             this.panel4.Location = new System.Drawing.Point(259, 69);
             this.panel4.Name = "panel4";
-            this.panel4.Size = new System.Drawing.Size(199, 110);
+            this.panel4.Size = new System.Drawing.Size(211, 110);
             this.panel4.TabIndex = 18;
             // 
             // label15
@@ -433,7 +433,7 @@
             this.label15.BackColor = System.Drawing.Color.Gray;
             this.label15.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label15.ForeColor = System.Drawing.Color.White;
-            this.label15.Location = new System.Drawing.Point(21, 72);
+            this.label15.Location = new System.Drawing.Point(53, 72);
             this.label15.Name = "label15";
             this.label15.Size = new System.Drawing.Size(154, 18);
             this.label15.TabIndex = 24;
@@ -445,7 +445,7 @@
             this.income_yesterdayincome.BackColor = System.Drawing.Color.Gray;
             this.income_yesterdayincome.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_yesterdayincome.ForeColor = System.Drawing.Color.White;
-            this.income_yesterdayincome.Location = new System.Drawing.Point(78, 14);
+            this.income_yesterdayincome.Location = new System.Drawing.Point(71, 14);
             this.income_yesterdayincome.Name = "income_yesterdayincome";
             this.income_yesterdayincome.Size = new System.Drawing.Size(22, 23);
             this.income_yesterdayincome.TabIndex = 23;
@@ -477,9 +477,9 @@
             this.panel5.Controls.Add(this.label14);
             this.panel5.Controls.Add(this.income_todayincome);
             this.panel5.Controls.Add(this.pictureBox1);
-            this.panel5.Location = new System.Drawing.Point(34, 69);
+            this.panel5.Location = new System.Drawing.Point(31, 69);
             this.panel5.Name = "panel5";
-            this.panel5.Size = new System.Drawing.Size(207, 110);
+            this.panel5.Size = new System.Drawing.Size(222, 110);
             this.panel5.TabIndex = 0;
             // 
             // label14
@@ -488,7 +488,7 @@
             this.label14.BackColor = System.Drawing.Color.Gray;
             this.label14.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label14.ForeColor = System.Drawing.Color.White;
-            this.label14.Location = new System.Drawing.Point(64, 72);
+            this.label14.Location = new System.Drawing.Point(96, 72);
             this.label14.Name = "label14";
             this.label14.Size = new System.Drawing.Size(122, 18);
             this.label14.TabIndex = 21;
@@ -500,7 +500,7 @@
             this.income_todayincome.BackColor = System.Drawing.Color.Gray;
             this.income_todayincome.Font = new System.Drawing.Font("Tahoma", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.income_todayincome.ForeColor = System.Drawing.Color.White;
-            this.income_todayincome.Location = new System.Drawing.Point(76, 14);
+            this.income_todayincome.Location = new System.Drawing.Point(71, 14);
             this.income_todayincome.Name = "income_todayincome";
             this.income_todayincome.Size = new System.Drawing.Size(22, 23);
             this.income_todayincome.TabIndex = 20;

@@ -3,24 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|c:\\users\\laptop_store\\onedrive\\desktop\\income and expense tracker\\expense-tracker-c-\\incomeandexpensetracker\\incomeandexpensetracker\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\income.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\expense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\expense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|c:\\users\\laptop_store\\onedrive\\desktop\\income and expense tracker\\expense-tracker-c-\\incomeandexpensetracker\\incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,14 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|c:\\users\\laptop_store\\onedrive\\desktop\\income and expense tracker\\expense-tracker-c-\\incomeandexpensetracker\\incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\mainform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,14 +79,6 @@
       "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\expensedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\expense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\expense.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\expense.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -71,24 +87,12 @@
       "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\categorydata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\add_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\income.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\income.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\incomedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\incomedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|solutionrelative:incomeandexpensetracker\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{02218912-993F-479C-8639-08668AC5ABBC}|IncomeandExpenseTracker\\IncomeandExpenseTracker.csproj|C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\incomeandexpensetracker\\registerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -102,11 +106,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Form1.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Form1.cs",
@@ -119,7 +123,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "RegisterForm.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\RegisterForm.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\RegisterForm.cs",
@@ -128,7 +132,8 @@
               "ViewState": "AQIAABgAAAAAAAAAAAAmwDEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T10:13:15.913Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,7 +143,7 @@
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Income.cs",
               "ToolTip": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Income.cs",
               "RelativeToolTip": "IncomeandExpenseTracker\\Income.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAUwBsAAAAgAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAIwBsAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-19T14:44:28.326Z",
               "IsPinned": true,
@@ -146,20 +151,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 0,
+              "Title": "Income.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Income.cs",
+              "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Income.cs",
+              "ToolTip": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Income.cs [Design]",
+              "RelativeToolTip": "IncomeandExpenseTracker\\Income.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:38:21.974Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Expense.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Expense.Designer.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Expense.Designer.cs",
               "ToolTip": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Expense.Designer.cs",
               "RelativeToolTip": "IncomeandExpenseTracker\\Expense.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "ViewState": "AQIAAEcBAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T06:19:13.549Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "MainForm.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\MainForm.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\MainForm.cs",
@@ -172,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "MainForm.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\MainForm.Designer.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\MainForm.Designer.cs",
@@ -180,12 +197,11 @@
               "RelativeToolTip": "IncomeandExpenseTracker\\MainForm.Designer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T05:56:49.335Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T05:56:49.335Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "ExpenseData.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\ExpenseData.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\ExpenseData.cs",
@@ -193,12 +209,11 @@
               "RelativeToolTip": "IncomeandExpenseTracker\\ExpenseData.cs",
               "ViewState": "AQIAAB4AAAAAAAAAAAAAACsAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-24T07:57:42.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T07:57:42.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 22,
               "Title": "IncomeData.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\IncomeData.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\IncomeData.cs",
@@ -210,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 21,
               "Title": "Income.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Income.Designer.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Income.Designer.cs",
@@ -223,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Program.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Program.cs",
@@ -231,25 +246,24 @@
               "RelativeToolTip": "IncomeandExpenseTracker\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-10T05:11:02.155Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-10T05:11:02.155Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 6,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Form1.Designer.cs",
               "ToolTip": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Form1.Designer.cs",
               "RelativeToolTip": "IncomeandExpenseTracker\\Form1.Designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-09T13:25:59.436Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 19,
               "Title": "Dashboard.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Dashboard.Designer.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Dashboard.Designer.cs",
@@ -262,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Add_Category.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Add_Category.Designer.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Add_Category.Designer.cs",
@@ -275,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 20,
               "Title": "CategoryData.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\CategoryData.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\CategoryData.cs",
@@ -287,7 +301,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 14,
               "Title": "Add_Category.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Add_Category.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Add_Category.cs",
@@ -313,7 +327,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 1,
               "Title": "Expense.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Expense.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Expense.cs",
@@ -325,7 +339,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 13,
               "Title": "Expense.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Expense.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Expense.cs",
@@ -338,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 3,
               "Title": "Add_Category.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Add_Category.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Add_Category.cs",
@@ -350,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 2,
               "Title": "Dashboard.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Dashboard.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Dashboard.cs",
@@ -362,36 +376,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 12,
               "Title": "MainForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\MainForm.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\MainForm.cs",
               "ToolTip": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\MainForm.cs [Design]",
               "RelativeToolTip": "IncomeandExpenseTracker\\MainForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T14:40:24.026Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-04-28T14:40:24.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 10,
               "Title": "RegisterForm.cs [Design]",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\RegisterForm.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\RegisterForm.cs",
               "ToolTip": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\RegisterForm.cs [Design]",
               "RelativeToolTip": "IncomeandExpenseTracker\\RegisterForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T07:25:22.938Z"
+              "WhenOpened": "2024-04-28T07:25:22.938Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Form1.cs",
               "RelativeDocumentMoniker": "IncomeandExpenseTracker\\Form1.cs",
               "ToolTip": "C:\\Users\\Laptop_Store\\OneDrive\\Desktop\\Income and Expense Tracker\\Expense-tracker-C-\\IncomeandExpenseTracker\\IncomeandExpenseTracker\\Form1.cs",
               "RelativeToolTip": "IncomeandExpenseTracker\\Form1.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAAAC0AAAAeAAAA",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAawFQAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-28T06:23:08.755Z",
               "EditorCaption": ""
