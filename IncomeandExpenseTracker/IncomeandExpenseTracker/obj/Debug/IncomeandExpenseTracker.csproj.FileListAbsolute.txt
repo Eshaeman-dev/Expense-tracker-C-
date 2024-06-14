@@ -46,3 +46,4 @@ C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracke
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.DashBoard.resources
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Expense.resources
 C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Income.resources
+C:\Users\Laptop_Store\OneDrive\Desktop\Income and Expense Tracker\Expense-tracker-C-\IncomeandExpenseTracker\IncomeandExpenseTracker\obj\Debug\IncomeandExpenseTracker.Api.resources

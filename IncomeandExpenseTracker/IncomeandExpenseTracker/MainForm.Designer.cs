@@ -59,6 +59,9 @@
             this.add_Category2 = new IncomeandExpenseTracker.Add_Category();
             this.expense2 = new IncomeandExpenseTracker.Expense();
             this.income2 = new IncomeandExpenseTracker.Income();
+            this.pictureBox10 = new System.Windows.Forms.PictureBox();
+            this.button3 = new System.Windows.Forms.Button();
+            this.api1 = new IncomeandExpenseTracker.Api();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             this.panel1.SuspendLayout();
             this.panel2.SuspendLayout();
@@ -70,6 +73,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).BeginInit();
             this.SuspendLayout();
             // 
             // close
@@ -121,6 +125,8 @@
             // panel2
             // 
             this.panel2.BackColor = System.Drawing.Color.Gray;
+            this.panel2.Controls.Add(this.pictureBox10);
+            this.panel2.Controls.Add(this.button3);
             this.panel2.Controls.Add(this.pictureBox9);
             this.panel2.Controls.Add(this.pictureBox8);
             this.panel2.Controls.Add(this.pictureBox7);
@@ -397,11 +403,44 @@
             this.income2.Size = new System.Drawing.Size(963, 590);
             this.income2.TabIndex = 29;
             // 
+            // pictureBox10
+            // 
+            this.pictureBox10.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox10.Image")));
+            this.pictureBox10.Location = new System.Drawing.Point(31, 346);
+            this.pictureBox10.Name = "pictureBox10";
+            this.pictureBox10.Size = new System.Drawing.Size(22, 22);
+            this.pictureBox10.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox10.TabIndex = 21;
+            this.pictureBox10.TabStop = false;
+            // 
+            // button3
+            // 
+            this.button3.BackColor = System.Drawing.Color.Gray;
+            this.button3.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
+            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button3.Font = new System.Drawing.Font("Tahoma", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button3.ForeColor = System.Drawing.Color.White;
+            this.button3.Location = new System.Drawing.Point(13, 339);
+            this.button3.Name = "button3";
+            this.button3.Size = new System.Drawing.Size(189, 33);
+            this.button3.TabIndex = 20;
+            this.button3.Text = "API";
+            this.button3.UseVisualStyleBackColor = false;
+            this.button3.Click += new System.EventHandler(this.button3_Click_2);
+            // 
+            // api1
+            // 
+            this.api1.Location = new System.Drawing.Point(220, 42);
+            this.api1.Name = "api1";
+            this.api1.Size = new System.Drawing.Size(953, 563);
+            this.api1.TabIndex = 30;
+            // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1183, 629);
+            this.Controls.Add(this.api1);
             this.Controls.Add(this.income2);
             this.Controls.Add(this.expense2);
             this.Controls.Add(this.add_Category2);
@@ -433,6 +472,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox10)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -468,5 +508,8 @@
         private Add_Category add_Category2;
         private Expense expense2;
         private Income income2;
+        private System.Windows.Forms.PictureBox pictureBox10;
+        private System.Windows.Forms.Button button3;
+        private Api api1;
     }
 }

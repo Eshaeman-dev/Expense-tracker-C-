@@ -54,6 +54,12 @@
     <Compile Include="Add_Category.Designer.cs">
       <DependentUpon>Add_Category.cs</DependentUpon>
     </Compile>
+    <Compile Include="Api.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Api.Designer.cs">
+      <DependentUpon>Api.cs</DependentUpon>
+    </Compile>
     <Compile Include="CategoryData.cs" />
     <Compile Include="Dashboard.cs">
       <SubType>UserControl</SubType>
@@ -97,6 +103,9 @@
     </Compile>
     <EmbeddedResource Include="Add_Category.resx">
       <DependentUpon>Add_Category.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Api.resx">
+      <DependentUpon>Api.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Dashboard.resx">
       <DependentUpon>Dashboard.cs</DependentUpon>

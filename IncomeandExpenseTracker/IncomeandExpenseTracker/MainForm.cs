@@ -16,6 +16,9 @@ namespace IncomeandExpenseTracker
         {
             InitializeComponent();
             displayUsername();
+            Api apiControl = new Api();
+            apiControl.Dock = DockStyle.Fill; 
+            this.Controls.Add(apiControl);
         }
 
         public void displayUsername()
@@ -37,6 +40,7 @@ namespace IncomeandExpenseTracker
             add_Category2.Visible = false;
             income2.Visible = false;
             expense2.Visible = false;
+            api1.Visible=false;
 
             DashBoard dForm= dashBoard2 as DashBoard;
 
@@ -53,6 +57,7 @@ namespace IncomeandExpenseTracker
             add_Category2.Visible = true;
             income2.Visible = false;
             expense2.Visible = false;
+            api1.Visible = false;
 
             Add_Category cform= add_Category2 as Add_Category;
 
@@ -68,6 +73,7 @@ namespace IncomeandExpenseTracker
             add_Category2.Visible = false;
             income2.Visible = true;
             expense2.Visible = false;
+            api1.Visible = false;
 
             Income iForm= income2 as Income;
             if(iForm != null)
@@ -83,6 +89,7 @@ namespace IncomeandExpenseTracker
             add_Category2.Visible = false;
             income2.Visible = false;
             expense2.Visible = true;
+            api1.Visible = false;
 
             Expense eForm= expense2 as Expense;
             if(eForm != null)
@@ -134,6 +141,22 @@ namespace IncomeandExpenseTracker
         private void dashBoard1_Load(object sender, EventArgs e)
         {
 
+        }
+
+
+        private void button3_Click_2(object sender, EventArgs e)
+        {
+            dashBoard2.Visible = false;
+            add_Category2.Visible = false;
+            income2.Visible = false;
+            expense2.Visible = false;
+            api1.Visible = true;
+
+            Api eForm = api1 as Api;
+            if (eForm != null)
+            {
+                eForm.refreshData();
+            }
         }
     }
 }
